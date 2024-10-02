@@ -16,7 +16,7 @@ Instructions for building and using this image. Adjust to your container runtime
 
     ```sh
     #Clone this repo and navigate to the files
-    git clone https://github.com/yourusername/hugo-build-image.git
+    git clone https://github.com/JoshFyneHartInd/hugo-build-image.git
     cd hugo-build-image
     
     #Build your container image
